@@ -9,7 +9,8 @@ def calcular_numero():
         print(numero)
 
 if __name__ == "__main__":
-    print("script1 started")
+    print("DEV BRANCH")
+    print("script1 started ")
     headless = False
     browser = seleniumfunction.webdriver_standard(headless)
     print("browser started")
