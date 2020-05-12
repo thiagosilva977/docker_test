@@ -1,5 +1,5 @@
 import time
-
+import numpy as np
 import common.template_selenium as seleniumfunction
 
 def calcular_numero():
