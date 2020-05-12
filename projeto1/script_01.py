@@ -9,6 +9,7 @@ def calcular_numero():
         print(numero)
 
 if __name__ == "__main__":
+
     print("DEV BRANCH")
     print("script1 started ")
     headless = False
